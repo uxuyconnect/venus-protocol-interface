@@ -10033,7 +10033,7 @@ __metadata:
     c8: "npm:^10.0.0"
     clsx: "npm:^2.0.0"
     compare-versions: "npm:^6.1.0"
-    connectkit: "npm:@connect-family/connectkit@3.0.0"
+    connectkit: "npm:@connect-family/connectkit@3.2.0"
     copy-to-clipboard: "npm:^3.3.3"
     date-fns: "npm:^3.0.6"
     ethers: "npm:^5.7.2"
@@ -13044,9 +13044,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"connectkit@npm:@connect-family/connectkit@3.0.0":
-  version: 3.0.0
-  resolution: "@connect-family/connectkit@npm:3.0.0::__archiveUrl=https%3A%2F%2Fpackages.aliyun.com%2F66e2dd9f79b7fe080f32665b%2Fnpm%2Fnpm-registry%2F%40connect-family%2Fconnectkit%2F-%2F%40connect-family%2Fconnectkit-3.0.0.tgz"
+"connectkit@npm:@connect-family/connectkit@3.2.0":
+  version: 3.2.0
+  resolution: "@connect-family/connectkit@npm:3.2.0::__archiveUrl=https%3A%2F%2Fpackages.aliyun.com%2F66e2dd9f79b7fe080f32665b%2Fnpm%2Fnpm-registry%2F%40connect-family%2Fconnectkit%2F-%2F%40connect-family%2Fconnectkit-3.2.0.tgz"
   dependencies:
     buffer: "npm:^6.0.3"
     detect-browser: "npm:^5.3.0"
@@ -13062,7 +13062,7 @@ __metadata:
     react-dom: 17.x || 18.x
     viem: 2.x
     wagmi: 2.x
-  checksum: 10c0/76c2ed3d1d035219932b3cfc0811a73ebb181143556413d868711106a0f6359dd9d048d38469e1a0bea525e15f20c9b4243c90dd4d01d41b974e29cf4d6411da
+  checksum: 10c0/0c7f623ccda27c8f7442bf67464c48f3cf7235a22870d1ccd7cf2a3c5f2fcad214817bc5ce370c74f744a81e814f9fa7edaed808c6ea344e1c9eefbc11ae9060
   languageName: node
   linkType: hard
 

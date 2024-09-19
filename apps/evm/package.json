@@ -59,7 +59,7 @@
     "buffer": "^6.0.3",
     "clsx": "^2.0.0",
     "compare-versions": "^6.1.0",
-    "connectkit": "npm:@connect-family/connectkit@3.0.0",
+    "connectkit": "npm:@connect-family/connectkit@3.2.0",
     "copy-to-clipboard": "^3.3.3",
     "date-fns": "^3.0.6",
     "ethers": "^5.7.2",
